@@ -16,5 +16,4 @@ Tested :
 - Linode **(NOT WORK)**
 - Vultr thanks to [wangzhiyong2019](https://github.com/sap471/vps-mikrotik-install/issues/1)
 - VPS Other
-Not Tester :
 - Digital Ocean
